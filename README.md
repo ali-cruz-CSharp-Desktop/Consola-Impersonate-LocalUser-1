@@ -1,2 +1,9 @@
-# Consola-Impersonate-LocalUser-1
-WindowsIdentity class to impersonate a user
+## Consola Impersonate LocalUser
+
+#### WindowsIdentity class to impersonate a user
+
+### Tecnologías:
+ - .Net Framework
+
+### Requerimientos:
+	
